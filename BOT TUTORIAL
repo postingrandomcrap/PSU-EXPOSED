@@ -1,0 +1,38 @@
+Multiple people dming me saying "how do i run this" "i got a problem" etc etc. This tutorial will explain it.
+
+BUILT VERSION:
+1. Open the folders till you find all the files. Find token.txt replace it with yours and run the exe called bot-dotnet.exe.
+2. Now if the cmd prompt closes that means your missing dotnet packages (used in C# etc coding),
+3. You may download the working ones at https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.418-windows-x64-installer
+4. If it still does not work then dm my main ezz#0101 but I do not fully know what else you could do.
+5. Run the exe again and it should work perfectly. If your someone whos gonna log scripts its located in Storage/Obfuscations/all the folders.
+6. Enjoy? You can fork this or whatever lol change token for your own.
+
+
+
+Source Version:
+This is alot more complicated im not gonna waste much time so its gonna be a shitty tut
+
+1. Download the dotnet packages found in built vers above.
+2. Download VS2019 (Virtual Studio 2019 DO NOT INSTALL CODE THIS WILL NOT WORK ON CODE)
+
+BEFORE WE CONTINUE THERE MAY BE ALOT OF ERRORS IN THIS FIX IT URSELF SORRY 💀
+
+3. Go to bot-dotnet folder and run the SLN . Edit it whatever then press at the top build and press rebuild.
+4. Same in the obf-dotnet folder
+5. im too lazy so im just gonna leave a pair of instructions i was left a week or 2 ago
+
+
++ 1. Open PSUSource-main folder
++ 2. Open bot-dotnet folder and run bot-dotnet.sln
++ 3. Find Build on topbar hover over it and then click Rebuild bot-dotnet
++ 4. After rebuilding close Visual Studio
++ 5. Go back and open PSUSource-main folder
++ 6. Open obf-dotnet folder and run obf-dotnet.sln
++ 7. Find Build on topbar hover over it and then click Rebuild obf-dotnet
++ 8. After rebuilding close Visual Studio
++ 9. Open PSUSource-main\bot-dotnet\bot-dotnet\bin\Debug\netcoreapp3.1 and copy all of the files
++ 10. Then open the bot folder and Paste the files (Replace the files too)
++ 11. After you pasted all of the files from bot-dotnet, open PSUSource-main\obf-dotnet\obf-dotnet\bin\Debug\netcoreapp3.1 and copy all of the files
++ 12. Then open the bot folder and Paste the files (Replace the files too)
++ 13. Run bot-dotnet.exe to run the bot :)
