@@ -1,5 +1,10 @@
 Multiple people dming me saying "how do i run this" "i got a problem" etc etc. This tutorial will explain it.
 
+
+JUST REALSIED CHANGING THE TOKEN WONT WORK YOU GOTTA EDIT THE ACTUAL CODE SORRY 💀
+
+
+
 BUILT VERSION:
 1. Open the folders till you find all the files. Find token.txt replace it with yours and run the exe called bot-dotnet.exe.
 2. Now if the cmd prompt closes that means your missing dotnet packages (used in C# etc coding),
